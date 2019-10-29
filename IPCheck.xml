@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <GlobalSettings IPWebSite="http://ipdetect.dnspark.com/" AltIPWebSite="https://www.whatsmyip.org/" CheckTime="11" UserName="sirfee" Password="xxxxx" Logging="1" ExcludeIPs="127.0.0.1,192.168.2.80,192.168.2.79,203.97.119.203,131.203.64.81,fe80::472:2fcf:3f57:fdaf%11" />
+  <EmailSettings SendEmail="1" EmailAddress="user@gmail.com" smtpHost="smtp.gmail.com" smtpUserName="user@gmail.com" smtpPassword="xxxxx" CurrentIP="122.59.152.24" />
+  <SiteSettings>
+    <Site Host="site1.com" User="sirfee" Password="xxxxxx" IPAddress="125.237.209.112" Disabled="1" />
+    <Site Host="site2.co.nz" User="sirfee" Password="xxxxxx" IPAddress="122.59.152.24" Disabled="0" />
+    <Site Host="site3.com" User="sirfee" Password="xxxxxx" IPAddress="122.59.152.24" Disabled="0" />
+  </SiteSettings>
+</Settings>
